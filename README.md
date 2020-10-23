@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Pixuca github stats](https://github-readme-stats.vercel.app/api?username=Pixuca)
+![Pixuca github stats](https://github-readme-stats.vercel.app/api?username=Pixuca&theme=vue)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
