@@ -4,6 +4,7 @@
 <p>Atualmente trabalhando em formas de conseguir aperfeiçoar o projeto <a style="text-decoration:none" href="https://www.github.com/Pixuca/RocketIC">RocketIC</a>. Agradeço sempre que confiam em mim para criar algo que ajude no cotidiano.</p>
 <p>Além disso, tô sempre procurando por um empreguinho na área!</p>
 
-![Pixuca github stats](https://github-readme-stats.vercel.app/api?username=Pixuca&theme=vue)&nbsp;&nbsp;
+
+![Pixuca github stats](https://github-readme-stats.vercel.app/api?username=Pixuca&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pixuca&theme=vue&layout=compact)
 
