@@ -3,7 +3,7 @@
 <!--
 **Pixuca/Pixuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pixuca)](https://github.com/Pixuca/github-readme-stats)
 
 Here are some ideas to get you started:
 
